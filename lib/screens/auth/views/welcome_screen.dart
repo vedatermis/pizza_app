@@ -7,7 +7,6 @@ import 'package:pizza_app/screens/auth/blocs/sign_in_bloc/sign_in_bloc.dart';
 import 'package:pizza_app/screens/auth/blocs/sign_up_bloc/sign_up_bloc.dart';
 import 'package:pizza_app/screens/auth/views/sign_in_screen.dart';
 import 'package:pizza_app/screens/auth/views/sign_up_screen.dart';
-import 'package:user_repository/user_repository.dart';
 
 class WelcomeScreen extends StatefulWidget {
   const WelcomeScreen({super.key});
